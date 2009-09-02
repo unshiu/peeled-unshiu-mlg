@@ -1,0 +1,2 @@
+module MlgHelper
+end
